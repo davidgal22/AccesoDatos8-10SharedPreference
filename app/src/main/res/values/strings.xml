@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AccesoDatos8-10</string>
+    <string name="saved_data">Name successfully changed to %1$s</string>
+    <string name="current_data">Current name:%1$s</string>
+    <string name="save">Save Preferences</string>
+    <string name="load">Load preferences</string>
+    <string name="filename">USER_PREFS</string>
+    <string name="username">USER_NAME</string>
+
+</resources>
